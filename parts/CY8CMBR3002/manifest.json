@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/CY8CMBR3002:CY8CMBR3002",
+  "name": "CY8CMBR3002",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/CY8CMBR3002.kicad_sym",
+  "description": "CapSense Controller, 2 Sensors, SOIC-8",
+  "datasheet": "http://www.cypress.com/?docID=49119",
+  "keywords": "Touch Sensor 2ch",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/CY8CMBR3002/",
+  "part_path": "parts/CY8CMBR3002",
+  "symbol_file": "parts/CY8CMBR3002/CY8CMBR3002.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.390Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/AT42QT1050-U:AT42QT1050-U",
+  "name": "AT42QT1050-U",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/AT42QT1050-U.kicad_sym",
+  "description": "Five-Key Touch Sensor, WLCSP-12",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9707-AT42-QTouch-BSW-AT42QT1050_Datasheet.pdf",
+  "keywords": "Touch QTouch Sensor Key",
+  "footprint": "Package_CSP:WLCSP-12_1.403x1.555mm_Layout6x4_P0.4mm_Stagger",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/AT42QT1050-U/",
+  "part_path": "parts/AT42QT1050-U",
+  "symbol_file": "parts/AT42QT1050-U/AT42QT1050-U.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.351Z"
+}

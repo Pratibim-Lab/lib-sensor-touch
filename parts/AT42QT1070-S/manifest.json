@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/AT42QT1070-S:AT42QT1070-S",
+  "name": "AT42QT1070-S",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/AT42QT1070-S.kicad_sym",
+  "description": "Seven-key Touch Sensor IC, SOIC-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9596-AT42-QTouch-BSW-AT42QT1070_Datasheet.pdf",
+  "keywords": "Touch QTouch Sensor Key",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/AT42QT1070-S/",
+  "part_path": "parts/AT42QT1070-S",
+  "symbol_file": "parts/AT42QT1070-S/AT42QT1070-S.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.371Z"
+}

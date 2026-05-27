@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/CY8CMBR3106S:CY8CMBR3106S",
+  "name": "CY8CMBR3106S",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/CY8CMBR3106S.kicad_sym",
+  "description": "CapSense Controller, 16 Sensors w/ Slider, QFN-24+EP",
+  "datasheet": "http://www.cypress.com/?docID=49119",
+  "keywords": "Touch Sensor 16ch Slider",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/CY8CMBR3106S/",
+  "part_path": "parts/CY8CMBR3106S",
+  "symbol_file": "parts/CY8CMBR3106S/CY8CMBR3106S.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.399Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/CY8CMBR3116:CY8CMBR3116",
+  "name": "CY8CMBR3116",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/CY8CMBR3116.kicad_sym",
+  "description": "CapSense Controller, 16 Sensors, QFN-24+EP",
+  "datasheet": "http://www.cypress.com/?docID=49119",
+  "keywords": "Touch Sensor 16ch",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/CY8CMBR3116/",
+  "part_path": "parts/CY8CMBR3116",
+  "symbol_file": "parts/CY8CMBR3116/CY8CMBR3116.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.404Z"
+}

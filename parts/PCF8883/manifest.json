@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/PCF8883:PCF8883",
+  "name": "PCF8883",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/PCF8883.kicad_sym",
+  "description": "Capacitive touch/proximity switch with auto-calibration, SOIC-8/WLCSP-8",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/PCF8883.pdf",
+  "keywords": "NXP capacitive touch sensor auto-calibration",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/PCF8883/",
+  "part_path": "parts/PCF8883",
+  "symbol_file": "parts/PCF8883/PCF8883.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.411Z"
+}

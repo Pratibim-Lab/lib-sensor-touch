@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/AT42QT1011-M:AT42QT1011-M",
+  "name": "AT42QT1011-M",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/AT42QT1011-M.kicad_sym",
+  "description": "Single-key Touch Sensor, UDFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf",
+  "keywords": "Touch QTouch Sensor Key",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm",
+  "extends": "AT42QT1010-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/AT42QT1011-M/",
+  "part_path": "parts/AT42QT1011-M",
+  "symbol_file": "parts/AT42QT1011-M/AT42QT1011-M.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.326Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/CAP1206-x-AIA:CAP1206-x-AIA",
+  "name": "CAP1206-x-AIA",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/CAP1206-x-AIA.kicad_sym",
+  "description": "6-Channel Capacitive Touch Sensor, DFN-10",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf",
+  "keywords": "6 Channel Capacitive Touch Sensor",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/CAP1206-x-AIA/",
+  "part_path": "parts/CAP1206-x-AIA",
+  "symbol_file": "parts/CAP1206-x-AIA/CAP1206-x-AIA.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.381Z"
+}

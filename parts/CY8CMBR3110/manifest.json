@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/CY8CMBR3110:CY8CMBR3110",
+  "name": "CY8CMBR3110",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/CY8CMBR3110.kicad_sym",
+  "description": "CapSense Controller, 10 Sensors, SOIC-16",
+  "datasheet": "http://www.cypress.com/?docID=49119",
+  "keywords": "Touch Sensor 10ch",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/CY8CMBR3110/",
+  "part_path": "parts/CY8CMBR3110",
+  "symbol_file": "parts/CY8CMBR3110/CY8CMBR3110.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.403Z"
+}

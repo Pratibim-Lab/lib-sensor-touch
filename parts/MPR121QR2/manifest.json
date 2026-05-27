@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Touch/MPR121QR2:MPR121QR2",
+  "name": "MPR121QR2",
+  "library": "Sensor_Touch",
+  "file": "Sensor_Touch.kicad_symdir/MPR121QR2.kicad_sym",
+  "description": "12ch Touch Sensor controller, UQFN-20",
+  "datasheet": "https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8",
+  "keywords": "Touch Sensor 12ch",
+  "footprint": "Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-touch@master/parts/MPR121QR2/",
+  "part_path": "parts/MPR121QR2",
+  "symbol_file": "parts/MPR121QR2/MPR121QR2.kicad_sym",
+  "source_library": "Sensor_Touch.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:32.407Z"
+}
